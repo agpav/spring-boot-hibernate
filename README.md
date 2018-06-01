@@ -1,2 +1,2 @@
 # spring-boot-hibernate
-Spring boot hibernate implementation
+REST api with Spring boot hibernate implementation.
